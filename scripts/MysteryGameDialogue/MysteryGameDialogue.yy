@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"MysteryGameDialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"MysteryGameDialogue",
+  "parent":{
+    "name":"DialogueScripts",
+    "path":"folders/Scripts/DialogueScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

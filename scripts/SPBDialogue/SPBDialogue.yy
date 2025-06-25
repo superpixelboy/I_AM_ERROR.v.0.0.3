@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SPBDialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SPBDialogue",
+  "parent":{
+    "name":"DialogueScripts",
+    "path":"folders/Scripts/DialogueScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

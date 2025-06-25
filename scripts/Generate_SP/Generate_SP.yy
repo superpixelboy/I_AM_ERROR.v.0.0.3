@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Generate_SP",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Generate_SP",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

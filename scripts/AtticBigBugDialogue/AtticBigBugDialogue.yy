@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"AtticBigBugDialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"AtticBigBugDialogue",
+  "parent":{
+    "name":"DialogueScripts",
+    "path":"folders/Scripts/DialogueScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

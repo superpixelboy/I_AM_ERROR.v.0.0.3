@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"CoffeeTrayDialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CoffeeTrayDialogue",
+  "parent":{
+    "name":"DialogueScripts",
+    "path":"folders/Scripts/DialogueScripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

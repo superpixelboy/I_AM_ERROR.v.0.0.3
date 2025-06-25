@@ -1,0 +1,40 @@
+{
+  "$GMTileSet":"v1",
+  "%Name":"t_bricks_test",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_2","closed_edge":false,"name":"autotile_2","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"t_bricks_test",
+  "out_columns":8,
+  "out_tilehborder":0,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"s_tiles_bricks_test",
+    "path":"sprites/s_tiles_bricks_test/s_tiles_bricks_test.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":64,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":64,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":72,
+}

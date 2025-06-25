@@ -1,0 +1,7 @@
+# Game Maker Studio 2 gitignore
+*.yyg
+cache/
+*.tmp
+*.temp
+.import/
+export/

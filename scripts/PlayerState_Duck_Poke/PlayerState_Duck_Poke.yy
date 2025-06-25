@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlayerState_Duck_Poke",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlayerState_Duck_Poke",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

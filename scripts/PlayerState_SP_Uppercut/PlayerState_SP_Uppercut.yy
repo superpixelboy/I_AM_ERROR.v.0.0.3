@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PlayerState_SP_Uppercut",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PlayerState_SP_Uppercut",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

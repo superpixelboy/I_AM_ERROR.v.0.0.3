@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Story_Manager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Story_Manager",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
