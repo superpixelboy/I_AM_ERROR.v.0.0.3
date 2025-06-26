@@ -1,6 +1,8 @@
 alpha = 0;
 nearby = false;
 
+image_speed=0;
+
 my_dialogue = [
 	
 	{ text: "Hey grandpa, I forgot to tell you, I'm having some friends over tonight to play a game. And we were wondering if we could stay late.", portrait: s_portrait_null_normal_smile, sound: player_voice},

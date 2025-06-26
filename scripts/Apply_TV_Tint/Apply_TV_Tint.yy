@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Apply_TV_Tint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Apply_TV_Tint",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

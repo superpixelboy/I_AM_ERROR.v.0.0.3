@@ -21,3 +21,6 @@
 			}
 		}
 	 }
+	 
+//apply tv tinting
+Apply_TV_Tint();

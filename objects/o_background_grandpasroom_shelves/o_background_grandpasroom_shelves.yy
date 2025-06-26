@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_wall_color",
+  "%Name":"o_background_grandpasroom_shelves",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_wall_color",
+  "name":"o_background_grandpasroom_shelves",
   "overriddenProperties":[],
   "parent":{
     "name":"Backgrounds",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_wall_color",
-    "path":"sprites/s_wall_color/s_wall_color.yy",
+    "name":"s_bookstore",
+    "path":"sprites/s_bookstore/s_bookstore.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"o_wall_color",
+  "%Name":"o_npc_grandpa_chair_shadow",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_wall_color",
+  "name":"o_npc_grandpa_chair_shadow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Backgrounds",
-    "path":"folders/Objects/Backgrounds.yy",
+    "name":"Grandpa",
+    "path":"folders/Objects/NPCs/Grandpa.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_wall_color",
-    "path":"sprites/s_wall_color/s_wall_color.yy",
+    "name":"s_npc_pops_chair_shadow",
+    "path":"sprites/s_npc_pops_chair_shadow/s_npc_pops_chair_shadow.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -246,4 +246,7 @@ if(global.inputCoolDown>=0){
 	global.inputCoolDown--;
 }
 
+//apply tv tinting
+Apply_TV_Tint();
+
 //show_debug_message("player Recieve Item:"+string(global.isRecievingItem)); 
