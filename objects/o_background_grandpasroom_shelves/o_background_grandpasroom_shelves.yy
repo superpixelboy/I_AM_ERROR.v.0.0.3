@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_bookstore",
-    "path":"sprites/s_bookstore/s_bookstore.yy",
+    "name":"s_background_grandpasroom_shelves",
+    "path":"sprites/s_background_grandpasroom_shelves/s_background_grandpasroom_shelves.yy",
   },
   "spriteMaskId":null,
   "visible":true,

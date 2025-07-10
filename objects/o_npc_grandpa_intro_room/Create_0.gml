@@ -5,10 +5,12 @@ image_speed=0;
 
 my_dialogue = [
 	
-	{ text: "Hey grandpa, I forgot to tell you, I'm having some friends over tonight to play a game. And we were wondering if we could stay late.", portrait: s_portrait_null_normal_smile, sound: player_voice},
-    { text: "Kids and  their video games. It's all just stare at a screen, sex and violence. It rots the brain.", portrait: npc_portrait, sound: npc_voice },
-    { text: "Well, we're actually not playing video games tonight. We're playing an old school pen and paper RPG.", portrait: s_portrait_null_normal_smile, sound: player_voice },
-    { text: "Okay, and that game it called?", portrait: npc_portrait, sound: npc_voice },
+	
+	 { text: "Hey Kiddo, you wanna have a seat and watch some TV with me?", portrait: npc_portrait, sound: npc_voice },
+	{ text: "Actually, I forgot to tell you, I'm having some friends over tonight to play a game. And we were wondering if we could stay late in the Bookstore.", portrait: s_portrait_null_normal_smile, sound: player_voice},
+    { text: "Kids and their video games. It's all just sex and violence... It rots the brain.", portrait: npc_portrait, sound: npc_voice },
+    { text: "Well, we're actually not playing video games tonight. We're playing an old-school pen and paper RPG.", portrait: s_portrait_null_normal_smile, sound: player_voice },
+    { text: "... and what might that game be called?", portrait: npc_portrait, sound: npc_voice },
 	 { text: "Hobos and Homicides.", portrait: s_portrait_null_normal_question, sound: player_voice },
     { text: "My point exactly. We didn't have terrible things like that when I was a young.", portrait: npc_portrait, sound: npc_voice },
    { text: "Hey, when you were a baby you would watch a rabbit shoot a duck in the face all day long.", portrait: s_portrait_null_normal_smile, sound: player_voice },

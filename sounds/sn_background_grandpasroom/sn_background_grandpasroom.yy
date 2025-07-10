@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":144.84175,
+  "duration":121.85873,
   "name":"sn_background_grandpasroom",
   "parent":{
     "name":"Sounds",
